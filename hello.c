@@ -3,6 +3,11 @@
 #include <stdlib.h>
 #include <sys/stat.h>
 #include <string.h>
+<<<<<<< Updated upstream
+=======
+#include <sys/socket.h>
+#include "cJSON.h"
+>>>>>>> Stashed changes
 
 int main(int argc, const char* argv[])
 {
