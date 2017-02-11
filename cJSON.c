@@ -1,7 +1,3 @@
-
-
-
-
 /*
   Copyright (c) 2009 Dave Gamble
 
